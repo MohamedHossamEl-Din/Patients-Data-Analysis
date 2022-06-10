@@ -19,4 +19,4 @@ The four dicrections are:
   * The analysis of the patients data with the diseases to understand the relations between the features.
   * The analysis of the medical tests data and how they are related to the diseases and the patients attributes.
 
-Finally, the full analysis process is automated through a script.
+Finally, the full analysis process is automated through a script and can be stored in a grid of directories.
